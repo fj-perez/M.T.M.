@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 sudo cp ./lib/org.pansholoko.mtm.plist /Library/LaunchDeamons/
 sudo cp ./src/mtm.sh /usr/local/

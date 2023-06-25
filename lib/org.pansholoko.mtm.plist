@@ -6,12 +6,12 @@
     <string>org.pansholoko.mtm</string>
     <key>ProgramArguments</key>
     <array>
-	    <string>/usr/local/mtm.sh</string>
+	    <string>/usr/local/bin/mtm.sh</string>
     </array>
 	<key>KeepAlive</key>
 	<false/>
 	<key>StandardOutPath</key>
-	
+	<script>/dev/null</script>
 	<key>RunAtLoad</key>
     <false/>
     <key>StartCalendarInterval</key>

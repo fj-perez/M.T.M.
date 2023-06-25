@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 if [[ $(pmset -g ps | head -1 ) =~ "AC Power" ]]; then
 	
